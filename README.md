@@ -9,8 +9,8 @@ Behind the scenes, the app scrapes webpage content, uses a large language model 
 ## Features
 
 - Two Distinct AI Personas  
-  💀 Roast Mode — sarcastic, blunt, and brutally honest  
-  🎉 Hype Mode — energetic, persuasive, and pitch-deck ready  
+  💀 Roast Mode : sarcastic, blunt, and brutally honest  
+  🎉 Hype Mode : energetic, persuasive, and pitch-deck ready  
 
 - Multi-Agent AI Pipeline  
   Scraper Agent → Creative Writer Agent (Gemini) → Video Producer Agent (HeyGen)
