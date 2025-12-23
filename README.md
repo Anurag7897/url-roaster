@@ -57,8 +57,6 @@ Create a .env file in the project root and add:
 GEMINI_API_KEY=your_google_gemini_api_key  
 HEYGEN_API_KEY=your_heygen_api_key  
 
-The .env file is ignored by Git to keep your credentials secure.
-
 ---
 
 ## Usage
